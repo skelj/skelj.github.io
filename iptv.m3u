@@ -12,9 +12,9 @@ http://118.250.7.168:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
 http://118.250.7.168:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://118.250.7.168:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+http://118.250.7.168:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://118.250.7.168:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+http://118.250.7.168:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://118.250.7.168:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
