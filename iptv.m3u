@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1,Channel 1
+#EXTINF:-1,Channel CCTV-1
 http://106.46.112.206:8888/hls/1/index.m3u8
-#EXTINF:-1,Channel 2
+#EXTINF:-1,Channel CCTV-2
 http://106.46.112.206:8888/hls/2/index.m3u8
-#EXTINF:-1,Channel 3
+#EXTINF:-1,Channel CCTV-3
 http://106.46.112.206:8888/hls/3/index.m3u8
-#EXTINF:-1,Channel 4
+#EXTINF:-1,Channel CCTV-4
 http://106.46.112.206:8888/hls/4/index.m3u8
-#EXTINF:-1,Channel 5
+#EXTINF:-1,Channel CCTV-5
 http://106.46.112.206:8888/hls/5/index.m3u8
-#EXTINF:-1,Channel 6
+#EXTINF:-1,Channel CCTV-6
 http://106.46.112.206:8888/hls/6/index.m3u8
-#EXTINF:-1,Channel 7
+#EXTINF:-1,Channel CCTV-7
 http://106.46.112.206:8888/hls/7/index.m3u8
-#EXTINF:-1,Channel 8
+#EXTINF:-1,Channel CCTV-8
 http://106.46.112.206:8888/hls/8/index.m3u8
-#EXTINF:-1,Channel 9
+#EXTINF:-1,Channel CCTV-9
 http://106.46.112.206:8888/hls/9/index.m3u8
-#EXTINF:-1,Channel 10
+#EXTINF:-1,Channel CCTV-10
 http://106.46.112.206:8888/hls/10/index.m3u8
-#EXTINF:-1,Channel 11
+#EXTINF:-1,Channel CCTV-11
 http://106.46.112.206:8888/hls/11/index.m3u8
-#EXTINF:-1,Channel 12
+#EXTINF:-1,Channel CCTV-12
 http://106.46.112.206:8888/hls/12/index.m3u8
-#EXTINF:-1,Channel 13
+#EXTINF:-1,Channel CCTV-13
 http://106.46.112.206:8888/hls/13/index.m3u8
-#EXTINF:-1,Channel 14
+#EXTINF:-1,Channel CCTV-14
 http://106.46.112.206:8888/hls/14/index.m3u8
-#EXTINF:-1,Channel 15
+#EXTINF:-1,Channel CCTV-15
 http://106.46.112.206:8888/hls/15/index.m3u8
-#EXTINF:-1,Channel 16
+#EXTINF:-1,Channel 河南卫视
 http://106.46.112.206:8888/hls/16/index.m3u8
-#EXTINF:-1,Channel 17
+#EXTINF:-1,Channel 河南都市
 http://106.46.112.206:8888/hls/17/index.m3u8
-#EXTINF:-1,Channel 18
+#EXTINF:-1,Channel 河南民生
 http://106.46.112.206:8888/hls/18/index.m3u8
-#EXTINF:-1,Channel 19
+#EXTINF:-1,Channel 河南法治
 http://106.46.112.206:8888/hls/19/index.m3u8
-#EXTINF:-1,Channel 20
+#EXTINF:-1,Channel 河南电视剧
 http://106.46.112.206:8888/hls/20/index.m3u8
-#EXTINF:-1,Channel 21
+#EXTINF:-1,Channel 河南新闻
 http://106.46.112.206:8888/hls/21/index.m3u8
-#EXTINF:-1,Channel 22
+#EXTINF:-1,Channel 河南公共
 http://106.46.112.206:8888/hls/22/index.m3u8
-#EXTINF:-1,Channel 23
+#EXTINF:-1,Channel 湖南卫视
 http://106.46.112.206:8888/hls/23/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1,Channel 江苏卫视
 http://106.46.112.206:8888/hls/24/index.m3u8
-#EXTINF:-1,Channel 25
+#EXTINF:-1,Channel 浙江卫视
 http://106.46.112.206:8888/hls/25/index.m3u8
-#EXTINF:-1,Channel 26
+#EXTINF:-1,Channel 北京卫视
 http://106.46.112.206:8888/hls/26/index.m3u8
-#EXTINF:-1,Channel 27
+#EXTINF:-1,Channel 东方卫视
 http://106.46.112.206:8888/hls/27/index.m3u8
-#EXTINF:-1,Channel 28
+#EXTINF:-1,Channel 天津卫视
 http://106.46.112.206:8888/hls/28/index.m3u8
-#EXTINF:-1,Channel 29
+#EXTINF:-1,Channel 山东卫视
 http://106.46.112.206:8888/hls/29/index.m3u8
-#EXTINF:-1,Channel 30
+#EXTINF:-1,Channel 安徽卫视
 http://106.46.112.206:8888/hls/30/index.m3u8
 
 #https://skelj.github.io/iptv.m3u
