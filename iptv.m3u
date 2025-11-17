@@ -10,7 +10,7 @@ http://115.63.83.48:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://example.com/logo/cctv4.png" group-title="央视频道",CCTV4-国际
 http://115.63.83.48:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://example.com/logo/cctv5.png" group-title="央视频道",CCTV5-体育
-http://115.63.83.48:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.232.198.130:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://example.com/logo/cctv5+.png" group-title="央视频道",CCTV5+体育赛事
 http://115.63.83.48:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://example.com/logo/cctv6.png" group-title="央视频道",CCTV6-电影
